@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Help for Trail Object</h1>
+  <p>The Trail Object is for identifying and tracking the Trails </p>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

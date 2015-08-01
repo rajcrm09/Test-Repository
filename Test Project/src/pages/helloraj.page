@@ -1,0 +1,10 @@
+<apex:page sidebar="false">
+  <!-- Begin Default Content REMOVE THIS -->
+  <apex:pageBlock title="New Page Block" >
+   <apex:pageBlockSection title="Block A" >
+  I'm three components deep!
+  </apex:pageBlockSection>
+  </apex:pageBlock>
+ 
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
